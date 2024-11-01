@@ -15,9 +15,9 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **HackX Finals Project (for specialneed children)**
+- 👯 I’m looking to collaborate on **HackX Finals Project (for special need children)**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java <BR> MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
