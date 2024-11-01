@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **HackX Finals Project (for special need children)**
 
-- 💬 Ask me about **Java <BR> MERN**
+- 💬 Ask me about **Java,MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
