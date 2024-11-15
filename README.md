@@ -11,11 +11,11 @@
 ### I am full stack developer
 ---
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Portfolio & EAD project**
 
 - 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **HackX Finals Project (for special need children)**
+- 👯 I’m looking to collaborate on **EAD Project**
 
 - 💬 Ask me about **Java,MERN**
 
