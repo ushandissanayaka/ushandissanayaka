@@ -8,7 +8,7 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ushandissanayaka&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ushandissanayaka&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
-### I am full stack developer
+### I am a full-stack developer
 ---
 
 - 🔭 I’m currently working on **Portfolio & Mobile Application Development**
