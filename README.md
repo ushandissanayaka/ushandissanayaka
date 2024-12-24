@@ -15,9 +15,9 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **EAD Microservice Project **
+- 👯 I’m looking to collaborate on  EAD Microservice Project
 
-- 💬 Ask me about **Java,MERN**
+- 💬 Ask me about **Java,MYSQL,MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
