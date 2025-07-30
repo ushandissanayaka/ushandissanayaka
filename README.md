@@ -11,7 +11,7 @@
 ### I am a full-stack developer
 ---
 
-- 🔭 I’m currently working on **Portfolio & Mobile Application Development**
+- 🔭 I’m currently working on **IFINIX company project**
 
 - 🌱 I’m currently learning **MERN**
 
