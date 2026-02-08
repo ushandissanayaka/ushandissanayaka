@@ -11,13 +11,13 @@
 ### I am a full-stack developer
 ---
 
-- 🔭 I’m currently working on **IFINIX company project**
+- 🔭 I’m currently working on **Springboot project**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Springboot**
 
 - 👯 I’m looking to collaborate on  EAD Microservice Project
 
-- 💬 Ask me about **Java,MYSQL,MERN**
+- 💬 Ask me about **JAVA,MYSQL,MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
