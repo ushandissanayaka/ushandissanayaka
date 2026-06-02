@@ -20,8 +20,6 @@
 ---
 
 ## 🚀 About Me
-
-- 🔭 Currently working on **Spring Boot Projects**
 - 🌱 Currently learning **Python and Cloud Platforms**
 - 💬 Ask me about **Java, MERN Stack, Spring Boot, MySQL, Oracle Database**
 - 💼 Working as a **Freelancer**
