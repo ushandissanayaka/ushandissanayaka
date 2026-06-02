@@ -60,6 +60,5 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,vite,nodejs,express,mongodb,mysql,py,js,html,css,git,github,figma,c" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
 
