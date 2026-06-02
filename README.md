@@ -63,21 +63,3 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ushandissanayaka&theme=tokyo-night" />
-</p>
-
----
-
-## 💻 Featured Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-SpringBoot-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-Oracle-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=for-the-badge" />
-</p>
