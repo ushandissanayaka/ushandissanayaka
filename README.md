@@ -47,7 +47,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://ushandissanayaka.vercel.app/" target="_blank">
+<a href="https://www.ushandissanayaka.me/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel" />
 </a>
 
