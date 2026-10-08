@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/ushandissanayaka">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Freelancer;Frontend+Developer;Backend+Developer;Mobile+App+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Game+Developer:AI/ML+Developer;Freelancer;Frontend+Developer;Backend+Developer;Mobile+App+Developer" />
   </a>
 </p>
 
