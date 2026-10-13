@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ushan Pramod Dissanayaka</h1>
-<h3 align="center">Freelancer | Full Stack Developer| Game Developer | AI/ML Developer | Mobile App Developer</h3>
+<h3 align="center">Freelancer | Full Stack Developer| Game Developer | AI/ML Engineer | Mobile App Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ushandissanayaka&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/ushandissanayaka">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Game+Developer;AI/ML+Developer;Freelancer;Frontend+Developer;Backend+Developer;Mobile+App+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Game+Developer;AI/ML+Engineer;Freelancer;Frontend+Developer;Backend+Developer;Mobile+App+Developer" />
   </a>
 </p>
 
